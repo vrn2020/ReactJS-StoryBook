@@ -1,4 +1,5 @@
 Storybook application enables user to create and edit the stories. 
+This application uses Firestore as the backend and leverages the authentication flow using the Firebase
 
 Functional application [demo](https://storybook-bb525.web.app).
 
