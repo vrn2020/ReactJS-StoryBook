@@ -1,6 +1,6 @@
 Storybook application enables user to create and edit the stories. 
 
-Functional application [demo][https://storybook-bb525.web.app].
+Functional application [demo](https://storybook-bb525.web.app).
 
 Features of the application: 
 User Registration/Signup using Firebase Authentication. 
