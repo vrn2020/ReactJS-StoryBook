@@ -11,7 +11,7 @@ Add/Edit/View/Delete the user created stories.
 ## Fork the project
 git clone 
 
-This project is bootstrapped using [create-react-app]()
+This project is bootstrapped using [create-react-app](https://github.com/facebook/create-react-app)
 
 In the project directory, you can run:
 
